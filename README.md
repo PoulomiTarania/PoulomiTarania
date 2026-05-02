@@ -67,3 +67,9 @@ I enjoy working at the intersection of <b>analytics, engineering, automation, an
 </div>
 
 </div>
+<div align="center">
+
+✨ Thanks for stopping by! ✨  
+I’m always learning, building, and finding better ways to make data useful.
+
+</div>
