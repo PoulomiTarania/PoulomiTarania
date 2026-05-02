@@ -4,7 +4,7 @@
 
 # Hi, I'm Poulomi Tarania 👋
 
-### Senior Data Analyst in the U.S. | Ex-Data Engineer at HP  Data Storyteller 
-| Python • SQL • PySpark • Power BI • Tableau • ML • ETL • Analytics • Data Engineering
+### Senior Data Analyst in the U.S. | Ex-Data Engineer at HP  | Data Storyteller 
+Python • SQL • PySpark • Power BI • ML • ETL • Data Engineering
 
 </div>
